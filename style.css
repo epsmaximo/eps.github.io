@@ -1,15 +1,15 @@
 body{
     margin: 0;
     padding: 0;
-    background-color:#949494;
-    color:#15d418;
+    background-color:#fffcfc;
+    color:#000000;
     line-height: 1,6;
     animation: fadeIn 3s ease-in;
 }
 header{
     font-family: sans-serif;
-    background-color: #415162;
-    color:rgb(86, 255, 30);
+    background-color: #3e536a;
+    color:rgb(27, 255, 19);
     padding: 10px 0;
     display: flex;
     align-items: center;
@@ -47,7 +47,7 @@ header img{
 
 nav{
     width: 200px;
-    background-color: #ffffff;
+    background-color: #dacece;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
@@ -89,7 +89,7 @@ main{
     flex: 1;
     text-align: center;
     padding: 20px;
-    background-color: #7b7575;
+    background-color: #ffffff;
     border-radius:10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
     animation: fadeIn ls ease-in;
